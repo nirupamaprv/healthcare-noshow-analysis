@@ -1,0 +1,12 @@
+# Python / Jupyter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.log
+
+# Third-party dataset: download from Kaggle (see README)
+healthcare_noshows.csv
+*.csv
+
+# macOS
+.DS_Store
